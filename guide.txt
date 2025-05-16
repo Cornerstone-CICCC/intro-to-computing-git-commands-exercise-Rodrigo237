@@ -1,3 +1,4 @@
 Welcome to My Git Project
 \n Description
 This project demonstrates basic GitHub operations
+\nThis project helps to understand Git Basics.
